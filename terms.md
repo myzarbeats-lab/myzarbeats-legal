@@ -1,12 +1,13 @@
 # Terms of Service — MYZAR Beats
 
-Last updated: April 2026
+Last updated: April 19, 2026
 
-MYZAR Beats is a music channel publishing original AI-assisted music content.
+MYZAR Beats is an independent music channel publishing original music content 
+on YouTube and TikTok.
 
-By using our services, you agree to these terms.
+## Use of Content
+All music and videos published by MYZAR Beats are original creations. 
+Unauthorized reproduction or distribution is prohibited.
 
-Content published on MYZAR Beats channels is for entertainment purposes only.
-All music is original and commercially licensed.
-
-Contact: myzarbeats@gmail.com
+## Contact
+For any questions: myzarbeats@gmail.com
